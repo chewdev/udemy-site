@@ -5,7 +5,6 @@ import Modal from "./modules/Modal";
 
 var mobileMenu = new MobileMenu();
 new RevealOnScroll(".feature-item", "80%");
-new RevealOnScroll(".testimonial", "70%");
-new RevealOnScroll(".testimonial--last", "90%");
+new RevealOnScroll(".testimonial", "85%");
 new StickyHeader();
 new Modal();
